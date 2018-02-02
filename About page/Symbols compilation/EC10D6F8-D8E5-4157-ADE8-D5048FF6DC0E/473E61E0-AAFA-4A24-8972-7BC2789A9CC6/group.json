@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "473E61E0-AAFA-4A24-8972-7BC2789A9CC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 30,
+    "x": 1167,
+    "y": 418
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1E9F7AC3-BD09-4314-B71E-006771CAD63E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "362FB2D1-7923-4F25-9194-B8F9A5D0DE21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB60C8E1-3478-4706-82DD-DA22D253534D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB549F70-3C9C-4430-B0A6-E58C7FB1AADE"
+    }
+  ],
+  "name": "social-windows",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "F72194DF-6F9A-44B9-B988-C39C5BCEF2FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 25.71428571428571,
+    "x": 1225,
+    "y": 227
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3887A27C-D61C-40B6-9A5A-6ADDB23073F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B167D56F-F7ED-41B1-82ED-5184AFA5893C"
+    }
+  ],
+  "name": "social-nodejs",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

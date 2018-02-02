@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "F776CDC6-9B93-4C42-B7EB-2E53F2D97754",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 199,
+    "width": 960,
+    "x": 0,
+    "y": 428
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "591CB8AC-DB21-4692-A03B-6129A448CC1D"
+    },
+    {
+      "class": "text",
+      "id": "B6639C35-7272-4D54-8BCB-B75AB9F679ED"
+    },
+    {
+      "class": "text",
+      "id": "15C0A1DE-3C0B-4BDE-9EB2-38DCF732D3B7"
+    }
+  ],
+  "name": "Symbols Icon + Symbols — Usage + Use the toolbar Symb",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

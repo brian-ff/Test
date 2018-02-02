@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5BC84C21-8423-459A-8A31-E7217C756409",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 30,
+    "x": 1304,
+    "y": 338
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D46C385E-DFC2-4692-BA22-BE9511B24C44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16BD815F-F538-4F36-BFC3-3AA8D41CB4FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2E136F5-3401-4B4E-9CDC-AD1173206E70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9AC15932-D430-4940-BEDA-72C6C7CA628D"
+    }
+  ],
+  "name": "social-chrome",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

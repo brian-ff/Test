@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQVllVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEBkATABlAHQgGQBzACAAcwB0AGEAcgB0ACAAdwBpAHQAaAAgAHQAaABlACAAbgBhAG0AZdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBmAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9KS/b/4l8YjP/AAAAAAAAAjP9KTQCAK9UIjP9KSO1/7s9jSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGIAS0xESCj5BRKI/QIATgBSiQkOAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQgAAAAAAAF8QD01vbnRzZXJyYXQtQm9sZNI0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y01EKUlNUVVpOU1RhYlN0b3BzW05TQWxpZ25tZW50gACAGhAE0jQ1V1hfEBBOU1BhcmFncmFwaFN0eWxlolc40jQ1WltfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXDhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRX2BUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAuwDCAMoA1QDZANsA3QDfAOMA5QDnAOkA6wEYAToBTQFUAVkBWwFdAV8BYQFmAWgBagFsAW4BcAF0AXoBfwGFAY4BlwGgAakBrgG5AcIBzwHSAdsB4AH9Af8CAQIIAgsCDQIPAhICFAIWAhgCLgJEAk0CXwJkAnoCfgKDApYCmQKsArMCvgLKAswCzgLQAtUC6ALrAvADBQMIAx0DLwMyAzcAAAAAAAACAQAAAAAAAABhAAAAAAAAAAAAAAAAAAADOQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "02A9F7AB-967A-4AB9-B6D8-2C094902BAE4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 478,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{2, 6}, {471, 30}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Let’s start with the",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "8ED1DFDF-DFF2-42D1-BD43-3558439A68F3"
+  },
+  "textBehaviour": 1
+}
