@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C6B29190-7470-4482-9E90-5FDDA0184133",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 25.01298701298701,
+    "x": 1334,
+    "y": 257
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "012173D4-A25A-45DE-A1EE-5BC7CA366449"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BFF9F039-C0B8-417F-A749-B2D16718FEB2"
+    }
+  ],
+  "name": "social-apple",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
